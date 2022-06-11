@@ -6,8 +6,8 @@ age_as_int = int (age)
 years_remaining = 90 - age_as_int
 
 # There are 365 days in a year, 52 weeks in a year and 12 months in a year.
-days_remaining =years_remaining * 365
 
+days_remaining =years_remaining * 365
 weeks_remaining = years_remaining * 52
 months_remaining = years_remaining * 12
 
