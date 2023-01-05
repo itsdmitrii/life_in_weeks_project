@@ -13,6 +13,10 @@ It will take your current age as the input and output a message with our time le
 
 Where x, y and z are replaced with the actual calculated numbers.
 <br />
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/xy13zze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
 <h2>Languages and Utilities Used</h2>
